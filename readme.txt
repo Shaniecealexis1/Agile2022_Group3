@@ -1,2 +1,2 @@
 This is a demo website created in Agile project. [Shaniece] 
-Just for testing 
+Today is 22/3/22 and we are working on Git Merge 
